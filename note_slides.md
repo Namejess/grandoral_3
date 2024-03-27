@@ -41,7 +41,7 @@
 
 ## Slide 7: Cas de Zoom (Technologique)
 
-- Présentation du cas Zoom comme étude de cas pour les enjeux technologiques.
+- Présentation du cas Zoom comme étude de cas pour les enjeux technologiques. (Zoombombing https://fr.wikipedia.org/wiki/Zoombombing#cite_note-tr-19)
 - Mesures prises par Zoom pour améliorer la sécurité.
 
 ## Slide 8: Impact sur la Productivité (Économique)
@@ -54,6 +54,7 @@
 
 - Formation et sensibilisation à la sécurité.
 - Investissements dans les infrastructures et outils de sécurité.
+- Tixeo, solution de visioconférence sécurisée. (https://www.tixeo.com/fr/)
 
 ## Slide 10: Réponses aux Enjeux Économiques
 

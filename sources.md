@@ -22,3 +22,9 @@
 [Agence Nationale de la Recherche (ANR)](https://anr.fr/)
 [Centre de Recherche pour l'Étude et l'Observation des Conditions de Vie (CREDOC)](https://www.credoc.fr/)
 [Centre de Recherche en Économie et Statistique (CREST)](https://www.crest.fr/)
+
+## Zoombombing 
+
+[Zoom](https://fr.wikipedia.org/wiki/Zoombombing#cite_note-tr-19)
+[Ban Zoom](https://www.techrepublic.com/article/who-has-banned-zoom-google-nasa-and-more/)
+[Zoom Security](https://www.livemint.com/technology/tech-news/zoom-released-100-new-security-features-in-90-days-11593681306833.html) 
